@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, objectives, grading, and the schedule of
+  lecture topics and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +21,7 @@ At least one of the following prerequisites is required:
 
 _7.05 General Biochemistry_
 
-[_7.06_ _Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06_ _Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
 [_7.08J Biological Chemistry II_](/courses/5-08j-biological-chemistry-ii-spring-2004/)
 

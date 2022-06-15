@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#intro)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#intro" %}}
 
 
 {{< tdclose >}}
@@ -52,7 +54,7 @@ Introduction
 
 Penicillin Discovery and Mode of Action
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#penicillin)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#penicillin" %}}
 
 
 {{< tdclose >}}
@@ -76,7 +78,7 @@ Chen, Yu, Weilie Zhang, et al. "[Crystal Structures of Penicillin-binding Protei
 
 Molecular Basis for Penicillin Resistance
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#molecular)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#molecular" %}}
 
 
 {{< tdclose >}}
@@ -100,7 +102,7 @@ Filipe, S. R., A. Tomasz. "[Inhibition of the Expression of Penicillin Resistanc
 
 Vancomycin Discovery and Mode of Action
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#vancom)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#vancom" %}}
 
 
 {{< tdclose >}}
@@ -124,7 +126,7 @@ Knox, J. R., and R. F. Pratt. "[Different Modes of Vancomycin and D-alanyl-D-ala
 
 Molecular Basis for Vancomycin Resistance
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#basis)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#basis" %}}
 
 
 {{< tdclose >}}
@@ -148,7 +150,7 @@ Foucault, M. L., F. Depardieu, et al. "[Inducible Expression Eliminates the Fitn
 
 Macrolides: Ribosome-binding Antibiotics and Development of Bacterial Resistance
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#macrolides)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#macrolides" %}}
 
 
 {{< tdclose >}}
@@ -172,7 +174,7 @@ Zaman, S., M. Fitzpatrick, et al. "[Novel Mutations in Ribosomal Proteins L4 and
 
 Superbugs: Innate and Acquired Resistance
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#super)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#super" %}}
 
 
 {{< tdclose >}}
@@ -196,7 +198,7 @@ Lin, J., L. Overbye Michel, et al. "[CmeABC Functions as a Multidrug Efflux Syst
 
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#field)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#field" %}}
 
 
 {{< tdclose >}}
@@ -214,7 +216,7 @@ No Readings
 
 Prevalence of Antibiotic Resistance in the Environment
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#prevalence)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#prevalence" %}}
 
 
 {{< tdclose >}}
@@ -238,7 +240,7 @@ UdikovicKolic, N., F. Wichmann, et al. "[Bloom of Resident Antibiotic-resistant 
 
 Mode of Action of Antimicrobial Peptides
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#mode)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#mode" %}}
 
 
 {{< tdclose >}}
@@ -262,7 +264,7 @@ Deris, Z. Z., J. D. Swarbrick, et al. "[Probing the Penetration of Antimicrobial
 
 New Methods for Antibiotic Discovery and Delivery
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#new)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#new" %}}
 
 
 {{< tdclose >}}
@@ -286,7 +288,7 @@ Radovic-Moreno, A. F., T. K. Lu, et al. "[Surface Charge-switching Polymeric Nan
 
 Non-traditional Methods to Treat Bacterial Infection: Fecal Transplants and Viruses
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#non)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#non" %}}
 
 
 {{< tdclose >}}
@@ -310,7 +312,7 @@ Yosef, I., M. Manor, et al. "[Temperate and Lytic Bacteriophages Programmed to S
 
 Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#pres)
+{{% resource_link 0117e492-f7be-12bd-f439-63832b74c420 "See the Lecture Summary" "#pres" %}}
 
 
 {{< tdclose >}}
