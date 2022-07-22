@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the written and oral assignments
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cf18537c-b022-e6cc-bcc7-72440da84909
 ---
@@ -17,4 +22,4 @@ Students will be required to select one paper from the primary literature (to be
 Field Trip to the MGH (Week 8)
 ------------------------------
 
-We will visit the laboratory of Dr. Sam Moskowitz at the Massachusetts General Hospital. Some details about the work Dr. Moskowitz does and the field trip are described in Week 8 of the [syllabus]({{< baseurl >}}/pages/syllabus).
+We will visit the laboratory of Dr. Sam Moskowitz at the Massachusetts General Hospital. Some details about the work Dr. Moskowitz does and the field trip are described in Week 8 of the {{% resource_link e9fbc8ec-6b91-8cfe-2a8d-19c3d27f54ef "syllabus" %}}.

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, objectives, grading, and the schedule of
+  lecture topics and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e9fbc8ec-6b91-8cfe-2a8d-19c3d27f54ef
 ---
@@ -16,14 +21,14 @@ At least one of the following prerequisites is required:
 
 _7.05 General Biochemistry_
 
-[_7.06_ _Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06_ _Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
 [_7.08J Biological Chemistry II_](/courses/5-08j-biological-chemistry-ii-spring-2004/)
 
 Course Description
 ------------------
 
-Bacteria and fungi have produced antibiotics, small molecules that can prevent the growth of or kill bacteria by inhibiting essential biological pathways, as a defense mechanism long before humans walked the earth. The discovery of antibiotics and their implementation in the clinic radically changed modern medicine, saving countless lives by treating infections that were once difficult to cure, such as syphilis, strep throat and tuberculosis. Although antibiotics were once referred to as the "wonder drug" of modern medicine, a growing number of drug-resistant bacteria have emerged since the beginning of the 20th century, which has compromised their effectiveness. Furthermore, as a consequence of the introduction of diverse antibiotics, multidrug resistant bacteria have emerged, negating recent advances in eradicating bacterial infections across the globe. Scientists have successfully studied the origins of many drug-resistant bacteria, shedding light on the molecular mechanisms bacteria have evolved to persist in the presence of antibiotics. Understanding these pathways will be fundamental for the future of medicine. During this course, we will cover many aspects of antibiotics including techniques used to discover these inhibitors, their mode of action and use in medicine. For example, we will learn about the techniques used to discover antibiotics, such as penicillin and vancomycin. We will discuss antibiotic-resistant bacteria and the molecular mechanisms underlying resistance, including horizontal gene transfer, point mutations and efflux pumps. Additionally, we will learn about pioneering work to treat infections with engineered antimicrobial peptides and microbiome replacement therapies. The course will focus on the primary research literature, and we will learn practical laboratory techniques, experimental design and how to interpret data and critique the conclusions offered by authors. Students will have the opportunity to visit a local hospital to learn about the process of treatment with antibiotics and what is being done to avoid the continuous emergence of antibiotic resistance.
+Bacteria and fungi have produced antibiotics, small molecules that can prevent the growth of or kill bacteria by inhibiting essential biological pathways, as a defense mechanism long before humans walked the earth. The discovery of antibiotics and their implementation in the clinic radically changed modern medicine, saving countless lives by treating infections that were once difficult to cure, such as syphilis, strep throat and tuberculosis. Although antibiotics were once referred to as the "wonder drug" of modern medicine, a growing number of drug-resistant bacteria have emerged since the beginning of the 20{{< sup "th" >}} century, which has compromised their effectiveness. Furthermore, as a consequence of the introduction of diverse antibiotics, multidrug resistant bacteria have emerged, negating recent advances in eradicating bacterial infections across the globe. Scientists have successfully studied the origins of many drug-resistant bacteria, shedding light on the molecular mechanisms bacteria have evolved to persist in the presence of antibiotics. Understanding these pathways will be fundamental for the future of medicine. During this course, we will cover many aspects of antibiotics including techniques used to discover these inhibitors, their mode of action and use in medicine. For example, we will learn about the techniques used to discover antibiotics, such as penicillin and vancomycin. We will discuss antibiotic-resistant bacteria and the molecular mechanisms underlying resistance, including horizontal gene transfer, point mutations and efflux pumps. Additionally, we will learn about pioneering work to treat infections with engineered antimicrobial peptides and microbiome replacement therapies. The course will focus on the primary research literature, and we will learn practical laboratory techniques, experimental design and how to interpret data and critique the conclusions offered by authors. Students will have the opportunity to visit a local hospital to learn about the process of treatment with antibiotics and what is being done to avoid the continuous emergence of antibiotic resistance.
 
 Format
 ------
