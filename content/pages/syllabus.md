@@ -158,7 +158,7 @@ Written Assignment due
 Field Trip
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to the {{% resource_link "e48fd5ee-b944-43b1-bd28-3f670a225bca" "Cambridge Water Treatment Facility at Fresh Pond" %}}
+Field Trip to the [Cambridge Water Treatment Facility at Fresh Pond](https://www.cambridgema.gov/Water/freshpondreservation)
 {{< tdclose >}}
 
 {{< trclose >}}
